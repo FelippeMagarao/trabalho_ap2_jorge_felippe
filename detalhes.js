@@ -6,7 +6,7 @@ let divDetalhes = document.getElementById('detalhes');
 let btvoltar = document.getElementById('voltar');
 
 btvoltar.addEventListener('click', () => {
-  window.location.href = './index.html';
+  window.location.href ='/';
 });
 
 function lerInfos() {
